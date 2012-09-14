@@ -1,0 +1,10 @@
+---------------------------------
+		TODO
+---------------------------------
+
+Background applications spawned 
+must be taken care of in a better
+way. Problem is that sometimes
+when the applications end, this 
+information is not recieved by the
+program
