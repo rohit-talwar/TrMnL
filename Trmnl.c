@@ -1,6 +1,6 @@
 /*
 
-Name Rohit Talwar
+Author Rohit Talwar
 Assumptions : I am listing all the processes/commands input into the terminal
 
 If a command was not able to execute then i am setting/printing the pid value of that process as = 0
